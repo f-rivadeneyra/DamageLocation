@@ -2,9 +2,9 @@
 In this project, an approach was created to automatically convert textual damage information into geometrical representations using Linked Data. The project bases on the definitions of the ASB-ING (basis for collecting and managing bridge inspection data in Germany) and  works with data which has been entered in the database application "SIB-Bauwerke".
 
 ## Requirements:
-- Damage inspection information converted into .ttl file
-- IFC model of bridge 
-- IFC model of bridge converted into LBD format
+- Damage inspection information converted into Turtle file (.ttl)
+- IFC model of bridge (.ifc)
+- IFC model of bridge converted into LBD format (.ttl)
 
 ## Procedure:
 1. Run file "01_Building_Component_Location" to associate building components in the data file to their geometrical representation
