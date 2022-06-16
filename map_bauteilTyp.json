@@ -1,0 +1,13 @@
+{   "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#Kappe')]": "EDGEBEAM",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#Bauteil')]" : "ignore",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/keys/2013#230012114000000_GelaenderMitDrahtgitterfuellung')]": "RAILING",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#StrasseWeg')]": "SLAB",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#Fahrstreifen')]": "SLAB",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#Fahrbahnuebergang')]": "SLAB",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/keys/2013#040011000000000_Widerlager')]": "RETAININGWALL",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#EinfacheBauteilart')]" : "ignore",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/keys#ArtEinfacheBauteilart_Besichtigungseinrichtung_Befestigungseinrichtung_Boeschungstreppe')]": "STAIR",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/core#TragendesBauteil')]": "GIRDER_SEGMENT",
+    "[rdflib.term.URIRef('https://w3id.org/asbingowl/keys/2013#230011220000000_EinfacheDistanzschutzplanke')]": "GUARDRAIL",
+    "https://w3id.org/asbingowl/keys/2013#040011000000000_Widerlager": "RETAININGWALL"
+}

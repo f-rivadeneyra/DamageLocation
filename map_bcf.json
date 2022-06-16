@@ -1,0 +1,12 @@
+{
+    "EDGEBEAM": [2,2,2],
+    "RAILING": [2,2,2],
+    "GIRDER_SEGMENT" : [2,2,-2],
+    "SLAB" : [2,2,2],
+    "GUARDRAIL" : [2,2,2],
+    "Widerlager_Wand_Hinten" : [5,0,0],
+    "Widerlager_Wand_Vorne" : [-5,0,0],
+    "Fluegel_Wand_Hinten" : [0,5,0],
+    "Fluegel_Wand_Vorne" : [0,5,0]
+
+ }

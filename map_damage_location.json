@@ -1,0 +1,19 @@
+   {
+      "https://w3id.org/asbingowl/keys/2013#130102212000000_xxxTesBauteilVonLinks_RechteSeitenflaeche": ". BauteilVonLinks",
+      "https://w3id.org/asbingowl/keys/2013#130082100000000_xxxTesFeld": ". Feld",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Fluegel_FluegelwandVorn" : "Control_EndeDesBauwerks",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Fluegel_FluegelwandHinten" : "Control_AnfangDesBauwerks",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Himmelsrichtung_Norden" : "ignore",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Widerlager_beideWiderlager": "Control_AnfangDesBauwerks",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Widerlager_WiderlagerVorn" : "Control_EndeDesBauwerks",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Widerlager_WiderlagerHinten": "Control_AnfangDesBauwerks",
+      "https://w3id.org/asbingowl/keys/2013#130101200000000_Rechts" : "Rechts",
+      "https://w3id.org/asbingowl/keys/2013#130101100000000_Links" : "Links",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Allgemein_beidseitig": "Rechts",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Allgemein_vorneUndHinten" : "Control_AnfangDesBauwerks",
+      "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Allgemein_links" : "Links",
+   "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Allgemein_rechts" : "Rechts",
+   "https://w3id.org/asbingowl/keys#OrtsangabeBauteilSchaden_Allgemein_gesamterUeberbau" :"ignore",
+   "https://w3id.org/asbingowl/keys/2013#130102210000000_xxxTesBauteilVonLinks":  ". BauteilVonLinks"
+   }
+ 
