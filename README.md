@@ -1,4 +1,4 @@
-# DamageLocation
+# Conversion of implicit textual damage locations of bridge inspection data in geometrical representations using Linked Data
 In this project, an approach was created to automatically convert textual damage information into geometrical representations using Linked Data. The project bases on the definitions of the ASB-ING (basis for collecting and managing bridge inspection data in Germany) and  works with data which has been entered in the database application "SIB-Bauwerke".
 
 ## Requirements:
